@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../jawa"
+		},
+		{
+			"path": "../belajar java"
+		},
+		{
+			"path": "../java 5"
+		},
+		{
+			"path": "../package java"
+		},
+		{
+			"path": "../UTS"
+		},
+		{
+			"path": "../java 7"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PROGRAM HTML"
+	}
+}
